@@ -1,0 +1,23 @@
+{
+  "name": "mocha-api-automation",
+  "version": "1.0.0",
+  "description": "api-automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm mocha test"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "supertest"
+  ],
+  "author": "Helda",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "jsonschema": "^1.4.1",
+    "mocha": "^10.3.0",
+    "mochawesome": "^7.1.3",
+    "supertest": "^6.3.4"
+  }
+}
