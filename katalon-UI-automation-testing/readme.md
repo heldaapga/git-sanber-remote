@@ -9,7 +9,7 @@ Melakukan testing pada web saucedemo dengan menggunakan katalon studio, pada tah
 - Open project pada Katalon studio
 - Running test case dan test suite
 - Untuk detail dari test case dapat diakses pada : 
-https://docs.google.com/spreadsheets/d/1OQHNEcfXgwoKkT1vQh3sCvcEFjSAetBc/edit?usp=sharing&ouid=114661457688901044055&rtpof=true&sd=true
+https://drive.google.com/drive/folders/1EsRGuTcDaWZ47WXrj9a9_NSJ2c6Xt8zO?usp=sharing
 
 Done ^^
 
